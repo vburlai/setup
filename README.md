@@ -32,5 +32,5 @@ Casks:
 ```bash
 brew cask install adobe-acrobat-reader       qlmarkdown                 visual-studio-code
 brew cask install chromium                   sourcetree                 zoomus
-brew cask install docker                     iterm2
+brew cask install docker                     iterm2                     kap
 ```
