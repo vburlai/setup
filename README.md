@@ -2,6 +2,13 @@
 
 ## macOS
 
+### Screenshot locations
+
+```bash
+defaults write com.appple.screencapture location ~/Downloads
+killall SystemUIServer
+```
+
 ### Mac App Store
 
 * https://itunes.apple.com/gb/app/magnet/id441258766?mt=12
